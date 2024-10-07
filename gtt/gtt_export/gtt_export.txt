@@ -1,0 +1,13 @@
+[## Export settings ##]
+scaling enabled = True
+tiling enabled = False
+tile resolution = 2048
+real terrain size (m) = 18000
+
+[## Terrain Details ##]
+grid size = 4096 x 4096
+cell size (m) = 4.39453125
+terrain size (m) = 18000
+satmap size (px) = 18000 x 18000
+resolution (m/px) = 1.0
+
